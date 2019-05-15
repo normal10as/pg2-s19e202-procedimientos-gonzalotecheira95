@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\bin\Debug\netcoreapp2.1\2.2.Nueva_fecha.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\bin\Debug\netcoreapp2.1\2.2.Nueva_fecha.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\bin\Debug\netcoreapp2.1\2.2.Nueva_fecha.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\bin\Debug\netcoreapp2.1\2.2.Nueva_fecha.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\bin\Debug\netcoreapp2.1\2.2.Nueva_fecha.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.2.Nueva_fecha\obj\Debug\netcoreapp2.1\2.2.Nueva_fecha.pdb

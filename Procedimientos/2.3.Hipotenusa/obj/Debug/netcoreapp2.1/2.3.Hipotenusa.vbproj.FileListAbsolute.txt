@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\bin\Debug\netcoreapp2.1\2.3.Hipotenusa.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\bin\Debug\netcoreapp2.1\2.3.Hipotenusa.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\bin\Debug\netcoreapp2.1\2.3.Hipotenusa.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\bin\Debug\netcoreapp2.1\2.3.Hipotenusa.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\bin\Debug\netcoreapp2.1\2.3.Hipotenusa.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.3.Hipotenusa\obj\Debug\netcoreapp2.1\2.3.Hipotenusa.pdb
