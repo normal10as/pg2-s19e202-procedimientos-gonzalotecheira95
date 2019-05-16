@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\bin\Debug\netcoreapp2.1\2.4.CincoPotencias.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\bin\Debug\netcoreapp2.1\2.4.CincoPotencias.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\bin\Debug\netcoreapp2.1\2.4.CincoPotencias.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\bin\Debug\netcoreapp2.1\2.4.CincoPotencias.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\bin\Debug\netcoreapp2.1\2.4.CincoPotencias.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\obj\Debug\netcoreapp2.1\2.4.CincoPotencias.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\obj\Debug\netcoreapp2.1\2.4.CincoPotencias.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\obj\Debug\netcoreapp2.1\2.4.CincoPotencias.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\obj\Debug\netcoreapp2.1\2.4.CincoPotencias.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.4.CincoPotencias\obj\Debug\netcoreapp2.1\2.4.CincoPotencias.pdb

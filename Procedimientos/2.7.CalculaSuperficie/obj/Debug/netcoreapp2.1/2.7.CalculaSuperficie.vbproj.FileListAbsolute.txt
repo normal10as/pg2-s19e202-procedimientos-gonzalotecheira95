@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\bin\Debug\netcoreapp2.1\2.7.CalculaSuperficie.deps.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\bin\Debug\netcoreapp2.1\2.7.CalculaSuperficie.runtimeconfig.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\bin\Debug\netcoreapp2.1\2.7.CalculaSuperficie.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\bin\Debug\netcoreapp2.1\2.7.CalculaSuperficie.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\bin\Debug\netcoreapp2.1\2.7.CalculaSuperficie.pdb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\obj\Debug\netcoreapp2.1\2.7.CalculaSuperficie.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\obj\Debug\netcoreapp2.1\2.7.CalculaSuperficie.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\obj\Debug\netcoreapp2.1\2.7.CalculaSuperficie.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\obj\Debug\netcoreapp2.1\2.7.CalculaSuperficie.dll
+C:\Users\gnxa9\source\repos\pg2-s19e202-procedimientos-gonzalotecheira95\Procedimientos\2.7.CalculaSuperficie\obj\Debug\netcoreapp2.1\2.7.CalculaSuperficie.pdb
