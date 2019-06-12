@@ -9,13 +9,15 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.2.Nueva_fecha", "2.2.Nuev
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.3.Hipotenusa", "2.3.Hipotenusa\2.3.Hipotenusa.vbproj", "{01FA9FD8-55CC-4556-A0C8-BF46A8F8A74F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.4.CincoPotencias", "2.4.CincoPotencias\2.4.CincoPotencias.vbproj", "{92ED5ABA-E090-4741-86D1-8D64F583AE4F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.4.CincoPotencias", "2.4.CincoPotencias\2.4.CincoPotencias.vbproj", "{92ED5ABA-E090-4741-86D1-8D64F583AE4F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.5.VolumenCilindro", "2.5.VolumenCilindro\2.5.VolumenCilindro.vbproj", "{493A9DBE-7DCC-4ABE-AAC2-58DD816ADC2B}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.5.VolumenCilindro", "2.5.VolumenCilindro\2.5.VolumenCilindro.vbproj", "{493A9DBE-7DCC-4ABE-AAC2-58DD816ADC2B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.6.Sumas", "2.6.Sumas\2.6.Sumas.vbproj", "{9FA9866F-DCAE-4144-8D0B-2FFD0937E991}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.6.Sumas", "2.6.Sumas\2.6.Sumas.vbproj", "{9FA9866F-DCAE-4144-8D0B-2FFD0937E991}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.7.CalculaSuperficie", "2.7.CalculaSuperficie\2.7.CalculaSuperficie.vbproj", "{0103D4BD-EAE6-4FBD-9787-DB05B2999179}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "2.7.CalculaSuperficie", "2.7.CalculaSuperficie\2.7.CalculaSuperficie.vbproj", "{0103D4BD-EAE6-4FBD-9787-DB05B2999179}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.8.Acumuladora", "2.8.Acumuladora\2.8.Acumuladora.vbproj", "{344A9154-91A8-446B-A286-5C7D593AE7E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0103D4BD-EAE6-4FBD-9787-DB05B2999179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0103D4BD-EAE6-4FBD-9787-DB05B2999179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0103D4BD-EAE6-4FBD-9787-DB05B2999179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344A9154-91A8-446B-A286-5C7D593AE7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344A9154-91A8-446B-A286-5C7D593AE7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344A9154-91A8-446B-A286-5C7D593AE7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344A9154-91A8-446B-A286-5C7D593AE7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
